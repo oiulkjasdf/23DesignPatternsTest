@@ -1,0 +1,3 @@
+Factory factory=new Factory();
+AFactory afactory=factory . method ('a');
+afactory.amethod();

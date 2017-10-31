@@ -1,0 +1,8 @@
+add the static keyword to create class easy 
+
+
+AFactory afactory=Factory . methodCreateA ();
+afactory.amethod();
+
+
+these factory method just like java polymorphic  

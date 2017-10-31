@@ -1,0 +1,6 @@
+it is just like fecorymethod 
+but diffrent is multifacotory created class pass throgh the method 
+
+Factory factory=new Factory();
+AFactory afactory=factory . methodCreateA ();
+afactory.amethod();

@@ -1,0 +1,12 @@
+we  used java polymorphic  to create a child factory 
+transfer the child method to run the child method;
+it can not use other extra method because the child factory or child object implements the father
+
+it taste safy?
+
+
+Factory factory=new ChildFactory();
+
+AObject aObject =factory . CreateA ();
+
+aObject.amethod();
